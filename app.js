@@ -1,1 +1,1 @@
-$ = System.import('jquery');
+var $ = require('jquery');
